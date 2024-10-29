@@ -136,3 +136,4 @@ Now create a new class in css and try to append this class to the <p> element
 // para.classList.add("newClass")
 //To add a new class in the remaining class. To append the 2 classes 
 
+// Add new feature
